@@ -1,0 +1,4 @@
+include README.md
+include COPYING
+recursive-include cc/templates *.html
+recursive-include cc/static *.css *.js *.png
